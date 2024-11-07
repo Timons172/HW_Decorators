@@ -1,0 +1,12 @@
+Вызвали функцию <function flat_generator at 0x10467aca0> с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+Время: 2024-11-07 15:20:41.835948
+Результат работы = <generator object flat_generator at 0x104523920>
+
+Вызвали функцию <function flat_generator at 0x10467aca0> с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+Время: 2024-11-07 15:20:41.836124
+Результат работы = <generator object flat_generator at 0x104523920>
+
+Вызвали функцию <function flat_generator at 0x10467aca0> с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}
+Время: 2024-11-07 15:20:41.836173
+Результат работы = <generator object flat_generator at 0x104523920>
+
